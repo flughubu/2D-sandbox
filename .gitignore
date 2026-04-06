@@ -1,0 +1,6 @@
+# Original and intermediate APK builds
+blockheads.apk
+blockheads_fixed.apk
+
+# Decompiled APK directory (large binary assets)
+blockheads_decompiled/
